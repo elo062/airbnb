@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Repetier-Host
+Exec= /var/www/html/RepetierHost/RepetierHost.exe -home /var/www/html/RepetierHost
+Type=Application
+StartupNotify=true
+Comment=Repetier-Host 3d printer host software
+Path=/var/www/html/RepetierHost
+Icon=/var/www/html/RepetierHost/repetier-logo.png
+MimeType=application/sla;text/gcode;application/wavefront-obj;application/x-amf;
+

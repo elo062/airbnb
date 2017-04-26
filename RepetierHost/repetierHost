@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /var/www/html/RepetierHost
+mono RepetierHost.exe -home /var/www/html/RepetierHost&
